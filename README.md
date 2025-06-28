@@ -1,2 +1,4 @@
 AllianceBuild takes in our scouting spreadsheet and calculates team's ability to score both samples and specimens. It then allows you to pair teams into alliances and ranks these alliances, allowing you to see how teams might do as they pair up and give other perfomance insights.
+_____________________________________________________________________________________________________________________________________________
 MainScouter takes in our couting spreadsheet and calculates team's ability to score both samples and specimens. Then, you can see ranking of the best teams overall, and the best pairs for your team to see how you might rank. It also figures out if you can be one of the prospective top alliances based on earlier scoring.
+_____________________________________________________________________________________________________________________________________________
